@@ -8,7 +8,7 @@ O desafio consiste em reduzir o erro de previsão (RMSE) para um valor inferior 
 
 ## 📂 Sobre os Dados
 
-- **Fonte**: Arquivo `data/taxi.csv`
+- **Fonte**: Arquivo `taxi.csv`
 - **Colunas**:
   - `num_orders`: número de pedidos de táxi.
 - **Índice**: timestamps de data e hora.
